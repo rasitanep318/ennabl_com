@@ -1,0 +1,23 @@
+{
+  "name": "ennabl_com",
+  "version": "1.0.0",
+  "description": "Test cases &amp; auto-tests for ennabl.com",
+  "scripts": {
+    "test": "npx playwright test",
+    "codegen": "npx playwright codegen https://www.ennabl.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasitanep318/ennabl_com.git"
+  },
+  "keywords": [],
+  "author": "Rasita Nepotribna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasitanep318/ennabl_com/issues"
+  },
+  "homepage": "https://github.com/rasitanep318/ennabl_com#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.0"
+  }
+}
