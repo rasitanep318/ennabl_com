@@ -14,8 +14,8 @@ npm run codegen
 
 | id  | titlle | steps | expected result |
 | --- | --- | --- | --- |
-| 1  | Открыть email | 1. Зайти на сайт ennabl.com<br>2. Кликнуть в панели на раздел "Аbout"<br>3. Кликнуть на "Оpportunities" в бургер меню<br>4. Скрол вниз страницы | На странице виден адрес info@ennabl.com |  
-| 2  | Ознакомиться с политикиой конфеденциальности | 1. Зайти на сайт ennabl.com<br>2. Кликнуть в панели на раздел "Mission/Solutions/About/News and events"<br>3. Кликнуть на "Privacy Policy" внизу страницы | Открытие страницы "Privacy Policy"  
-| 3 | Ознакомиться с миссией сайта | 1. Зайти на сайт ennabl.com<br>2. Кликнуть в панели на раздел "Mission" | Открытие страницы "Our Mission" |
-| 4 | Ознакомиться с историей сайта | 1. Зайти на сайт ennabl.com<br>2. Кликнуть в панели на раздел "Аbout"<br>3. Кликнуть на "Our story" в бургер меню | Открытие страницы "About Us" |
-| 5 | Ознакомиться с новостями сайта | 1. Зайти на сайт ennabl.com<br>2. Кликнуть в панели на раздел "News and events" | Открытие страницы "News & events" |
+| 1  | To open email | 1. Navigate to ennabl.com <br>2. Click link "Аbout" in the panel<br>3. Click link "Оpportunities" in burger menu<br>4. Scroll down | The email info@ennabl.com is displayed |
+| 2  | Go to the page "Privacy Policy" | 1. Navigate to ennabl.com <br>2. Click link "Mission/Solutions/About/News and events" in the panel<br>3. Click link "Privacy Policy" | The page "Privacy Policy" is opened |
+| 3 | Go to the page "Mission" | 1. Navigate to ennabl.com <br>2. Click link "Mission" in the panel | The page "Our Mission" is opened |
+| 4 | Go to the page "Our story" | 1. Navigate to ennabl.com <br>2. Click link "Аbout" in the panel<br>3. Click link "Our story" in burger menu | The page "About Us" is opened |
+| 5 | Go to the page "News and events" | 1. Navigate to ennabl.com <br>2. Click link "News and events" in the panel | The page "News & events" is opened |
